@@ -1,3 +1,2 @@
-F3A20..F3A2F; Aumakuyinai Extended-A
 F40D0..F40EF; Aumakuyinai
-F4830..F484F; Aumakuyinai Extended-B
+F4830..F484F; Aumakuyinai Extended
